@@ -2,7 +2,7 @@
 
 <p align="center">
   <a aria-label="Vercel logo" href="https://vercel.com">
-    <img src="https://badgen.net/badge/icon/Made%20by%20Vercel?icon=zeit&label&color=black&labelColor=black">
+    <img src="https://badgen.net/badge/icon/Made%20by%20Vercel?icon=vercel&label&color=black&labelColor=black">
   </a>
   <br/>
   <a aria-label="NPM version" href="https://www.npmjs.com/package/swr">
